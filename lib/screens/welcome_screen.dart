@@ -44,7 +44,7 @@ class WelcomeScreen extends StatelessWidget {
                   // push() = the user can walk back out the front door
                   Navigator.push(
                     context,
-                    MaterialPageRoute(builder: (_) => const SignupScreen()),
+                    MaterialPageRoute(builder: (_) => SignupScreen()),
                   );
                 },
                 style: ElevatedButton.styleFrom(
