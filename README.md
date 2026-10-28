@@ -1,6 +1,6 @@
 # signup_app
 
-A new Flutter project.
+https://github.com/Kanon-Yasuda/inclass_signupapp
 
 ## Getting Started
 
